@@ -1,0 +1,23 @@
+.Image{
+    text-align: right;
+    background-color: brown;
+    width: fit-content;
+    border-radius: 5px solid brown;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    width: 30%;
+}
+.Img{
+    width: 100%;
+}
+.Image:hover {
+    background-color: rgb(50, 50, 48);
+  }
+
+  .Img:hover {
+    background-color: yellow;
+  }
+.Img:hover{
+  background-color: rgb(50, 50, 48);
+}
+  

@@ -1,0 +1,11 @@
+.Image{
+    text-align: right;
+    background-color: brown;
+
+    border-radius: 5px solid brown;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+}
+.container{
+    margin: 0px 400px 0px 400px;
+}
